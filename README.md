@@ -30,30 +30,30 @@ Here are some ideas to get you started:
 
 ### 💻 My projects explained
 
-- ![IA](https://cdn-icons-png.flaticon.com/128/2103/2103720.png)
+- 🧠 IA
   - https://github.com/rubenarcos2/streamlit-perceptron-iris
   - https://perceptron-clasificador-iris.herokuapp.com/
-- Java
-  - Threads
+- ☕ Java
+  - 🧵 Threads
     - https://github.com/rubenarcos2/java-hilos-aeropuerto
     - https://github.com/rubenarcos2/java-hilos-puente-levadizo
-  - Sockets
+  -🔌 Sockets
     - https://github.com/rubenarcos2/ahorcado-cliente-socket-java
     - https://github.com/rubenarcos2/ahorcado-server-socket-java
-- Internet Of Things: Arduino, Esp8266, ESP32...
+- ⚙ Internet Of Things: Arduino, Esp8266, ESP32...
   - https://github.com/rubenarcos2/IoT-My_learning_path
   - Learning
     - https://github.com/rubenarcos2/IoT-My_learning_path/tree/main/Learning
   - Things
     - https://github.com/rubenarcos2/IoT-My_learning_path/tree/main/Things
-- C#
+- ♯ C#
   - https://github.com/rubenarcos2/gesmerca-c_sharp
   - https://github.com/rubenarcos2/editor-de-textos-c_sharp
   - https://bitbucket.org/rubenarcos/tetris-c
-- API
+- 📡 API
   - https://github.com/rubenarcos2/prueba-api-rest-spring-java
   - https://github.com/rubenarcos2/IoT-My_learning_path/tree/main/Learning/API_Openweathermao
-- Criptography
+- 🔒 Criptography
   - https://github.com/rubenarcos2/cifrado-privado-fase-1-java
   - https://github.com/rubenarcos2/cifrado-privado-fase-2-java
   - https://github.com/rubenarcos2/descifrado-fase-3-java
