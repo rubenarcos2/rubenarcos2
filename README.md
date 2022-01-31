@@ -30,10 +30,17 @@ Here are some ideas to get you started:
 
 ### My projects explained
 
+- IA
+  - https://github.com/rubenarcos2/streamlit-perceptron-iris
+  - https://perceptron-clasificador-iris.herokuapp.com/
 - Java
+  - Sockets
+    - https://github.com/rubenarcos2/ahorcado-server-socket-java
 - Internet Of Things: Arduino, Esp8266, ESP32...
 - C#
+  - https://github.com/rubenarcos2/gesmerca-c_sharp
 - API
+  - https://github.com/rubenarcos2/prueba-api-rest-spring-java
 - Criptography
   - https://github.com/rubenarcos2/cifrado-privado-fase-1-java
   - https://github.com/rubenarcos2/cifrado-privado-fase-2-java
