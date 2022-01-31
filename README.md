@@ -10,7 +10,7 @@
 - 💬 Ask me about ...
   Anything
 - 📫 How to reach me: ...
-  www.rarcos.com
+  https://rarcos.com/contacto/
 
   
 <!--
