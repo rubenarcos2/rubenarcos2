@@ -34,13 +34,25 @@ Here are some ideas to get you started:
   - https://github.com/rubenarcos2/streamlit-perceptron-iris
   - https://perceptron-clasificador-iris.herokuapp.com/
 - Java
+  - Threads
+    - https://github.com/rubenarcos2/java-hilos-aeropuerto
+    - https://github.com/rubenarcos2/java-hilos-puente-levadizo
   - Sockets
+    - https://github.com/rubenarcos2/ahorcado-cliente-socket-java
     - https://github.com/rubenarcos2/ahorcado-server-socket-java
 - Internet Of Things: Arduino, Esp8266, ESP32...
+  - https://github.com/rubenarcos2/IoT-My_learning_path
+  - Learning
+    - https://github.com/rubenarcos2/IoT-My_learning_path/tree/main/Learning
+  - Things
+    - https://github.com/rubenarcos2/IoT-My_learning_path/tree/main/Things
 - C#
   - https://github.com/rubenarcos2/gesmerca-c_sharp
+  - https://github.com/rubenarcos2/editor-de-textos-c_sharp
+  - https://bitbucket.org/rubenarcos/tetris-c
 - API
   - https://github.com/rubenarcos2/prueba-api-rest-spring-java
+  - https://github.com/rubenarcos2/IoT-My_learning_path/tree/main/Learning/API_Openweathermao
 - Criptography
   - https://github.com/rubenarcos2/cifrado-privado-fase-1-java
   - https://github.com/rubenarcos2/cifrado-privado-fase-2-java
