@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My projects explained
+### 💻 My projects explained
 
-- IA
+- ![IA](https://cdn-icons-png.flaticon.com/128/2103/2103720.png)
   - https://github.com/rubenarcos2/streamlit-perceptron-iris
   - https://perceptron-clasificador-iris.herokuapp.com/
 - Java
