@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   - 🧵 Threads
     - https://github.com/rubenarcos2/java-hilos-aeropuerto
     - https://github.com/rubenarcos2/java-hilos-puente-levadizo
-  -🔌 Sockets
+  - 🔌 Sockets
     - https://github.com/rubenarcos2/ahorcado-cliente-socket-java
     - https://github.com/rubenarcos2/ahorcado-server-socket-java
 - ⚙ Internet Of Things: Arduino, Esp8266, ESP32...
