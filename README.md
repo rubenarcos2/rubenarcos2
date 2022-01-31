@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 - C#
 - API
 - Criptography
-  https://github.com/rubenarcos2/cifrado-privado-fase-1-java
-  https://github.com/rubenarcos2/cifrado-privado-fase-2-java
-  https://github.com/rubenarcos2/descifrado-fase-3-java
+  - https://github.com/rubenarcos2/cifrado-privado-fase-1-java
+  - https://github.com/rubenarcos2/cifrado-privado-fase-2-java
+  - https://github.com/rubenarcos2/descifrado-fase-3-java
