@@ -35,6 +35,7 @@ Here are some ideas to get you started:
   - https://perceptron-clasificador-iris.herokuapp.com/
 - 🐍 Python
   - https://github.com/rubenarcos2/api_rest_flask_python
+  - https://flask-python-crud.herokuapp.com/
 - ☕ Java
   - 🧵 Threads
     - https://github.com/rubenarcos2/java-hilos-aeropuerto
