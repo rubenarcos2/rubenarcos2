@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ...
   Big data, IA: on a Especialization course of IA and Big data imparted by Official Public School
 - 👯 I’m looking to collaborate on ...
-  Kaggle competitions
+  New projects and code adventures
 - 🤔 I’m looking for help with ...
   Job offer, an other education course, repo collab... 
 - 💬 Ask me about ...
@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 - 🧠 IA
   - https://github.com/rubenarcos2/streamlit-perceptron-iris
   - https://perceptron-clasificador-iris.herokuapp.com/
+- 🐍 Python
+  - https://github.com/rubenarcos2/api_rest_flask_python
 - ☕ Java
   - 🧵 Threads
     - https://github.com/rubenarcos2/java-hilos-aeropuerto
