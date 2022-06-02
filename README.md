@@ -1,5 +1,5 @@
 ### 📖 My skills
-[![My Skills](https://skillicons.dev/icons?i=java,'c#',php,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,php,js,html,css)](https://skillicons.dev)
 
 ### 👋 Hi there
 - 🔭 I’m currently working on ...
