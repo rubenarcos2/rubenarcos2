@@ -1,7 +1,7 @@
-### My skills
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,php,c#)](https://skillicons.dev)
+### 📖 My skills
+[![My Skills](https://skillicons.dev/icons?i=java,c#,php,js,html,css)](https://skillicons.dev)
 
-### Hi there 👋
+### 👋 Hi there
 - 🔭 I’m currently working on ...
   IA algorithms, Big data, hadoop, mongoDB, neo4j all developed on R & Python
 - 🌱 I’m currently learning ...
