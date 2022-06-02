@@ -1,7 +1,6 @@
 ### 📖 My skills
-![My Skills](https://skillicons.dev/icons?i=java,cs,php,python,r,js,html,css)
-
-![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,tensorflow)
+!https://skillicons.dev/icons?i=java,cs,php,python,r,js,html,css
+![My Skills2](https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,tensorflow)
 
 ### 👋 Hi there
 - 🔭 I’m currently working on ...
