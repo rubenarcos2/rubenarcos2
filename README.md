@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 - 🧠 IA
   - https://github.com/rubenarcos2/streamlit-perceptron-iris
-  - https://perceptron-clasificador-iris.herokuapp.com/
+  - https://rarcos.com/2022/01/29/IA_perceptron_clasificador_iris
 - 🐍 Python
   - https://github.com/rubenarcos2/api_rest_flask_python
-  - https://flask-python-crud.herokuapp.com/
+  - https://rarcos.com/2022/02/15/Python-API_Rest_en_Flask
 - ☕ Java
   - 🧵 Threads
     - https://github.com/rubenarcos2/java-hilos-aeropuerto
