@@ -28,8 +28,9 @@ Here are some ideas to get you started:
 ### 💻 My projects explained
 
 - 🧠 IA
+  - https://rarcos.com/2022/08/11/IA-Juego-Hotel
   - https://github.com/rubenarcos2/streamlit-perceptron-iris
-  - https://rarcos.com/2022/01/29/IA_perceptron_clasificador_iris
+  - https://rarcos.com/2022/01/29/IA_perceptron_clasificador_iris  
 - 🐍 Python
   - https://github.com/rubenarcos2/api_rest_flask_python
   - https://rarcos.com/2022/02/15/Python-API_Rest_en_Flask
