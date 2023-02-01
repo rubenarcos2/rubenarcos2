@@ -52,7 +52,10 @@ Here are some ideas to get you started:
   - https://github.com/rubenarcos2/editor-de-textos-c_sharp
   - https://bitbucket.org/rubenarcos/tetris-c
 - 📡 API
+  - https://github.com/rubenarcos2/spring-boot-api_rest
   - https://github.com/rubenarcos2/prueba-api-rest-spring-java
+  - https://github.com/rubenarcos2/api_rest_flask_python
+  - https://github.com/rubenarcos2/api_rest_calculadora_r
   - https://github.com/rubenarcos2/IoT-My_learning_path/tree/main/Learning/API_Openweathermao
 - 🔒 Criptography
   - https://github.com/rubenarcos2/cifrado-privado-fase-1-java
