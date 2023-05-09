@@ -1,6 +1,6 @@
 ### 📖 My skills
 [![My Skills1](https://skillicons.dev/icons?i=java,cs,php,python,r,js,html,css)](https://rarcos.com/about/)
-[![My Skills2](https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,tensorflow,angular,android,arduino,raspberrypi)](https://rarcos.com/about/)
+[![My Skills2](https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,tensorflow,angular,androidstudio,arduino,raspberrypi)](https://rarcos.com/about/)
 
 ### 👋 Hi there
 - 🔭 I’m currently working on ... Web develop, Angular, IA algorithms & Python...
