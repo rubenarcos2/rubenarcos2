@@ -1,9 +1,9 @@
 ### 📖 My skills
 [![My Skills1](https://skillicons.dev/icons?i=java,cs,php,python,r,js,html,css)](https://rarcos.com/about/)
-[![My Skills2](https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,tensorflow)](https://rarcos.com/about/)
+[![My Skills2](https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,tensorflow,angular)](https://rarcos.com/about/)
 
 ### 👋 Hi there
-- 🔭 I’m currently working on ... Web develop, Spring Java, IA algorithms & Python, cybersecurity
+- 🔭 I’m currently working on ... Web develop, Angular, IA algorithms & Python...
 - 🌱 I’m currently learning ... a web develop course & improve my english
 - 👯 I’m looking to collaborate on ... new projects and code adventures
 - 🤔 I’m looking for help with ... job offer, an other education course, repo collab... 
