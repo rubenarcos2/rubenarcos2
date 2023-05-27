@@ -62,3 +62,6 @@ Here are some ideas to get you started:
   - https://github.com/rubenarcos2/cifrado-privado-fase-1-java
   - https://github.com/rubenarcos2/cifrado-publico-fase-2-java
   - https://github.com/rubenarcos2/descifrado-fase-3-java
+
+### 📋 My others repositories
+- https://bitbucket.org/rubenarcos/workspace/repositories
