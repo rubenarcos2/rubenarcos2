@@ -54,8 +54,8 @@ Here are some ideas to get you started:
   - https://github.com/rubenarcos2/IoT-My_learning_path/tree/main/Learning/API_Openweathermao
 - 🖥 C#
   - [GesMerCa C#](https://github.com/rubenarcos2/gesmerca-c_sharp)
-  - https://github.com/rubenarcos2/editor-de-textos-c_sharp
-  - https://bitbucket.org/rubenarcos/tetris-c
+  - [Text editor](https://github.com/rubenarcos2/editor-de-textos-c_sharp)
+  - [Tetris game](https://bitbucket.org/rubenarcos/tetris-c)
 - 🔒 Criptography
   - https://github.com/rubenarcos2/cifrado-privado-fase-1-java
   - https://github.com/rubenarcos2/cifrado-publico-fase-2-java
