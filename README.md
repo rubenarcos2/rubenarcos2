@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 - 🎓 Final proyects
   - [Final proyect Higher Technician in Web Applications Development (DAW)](https://github.com/rubenarcos2/proyecto_daw)
   - [Final proyect Higher Technician in Multi-platform Applications Development (DAM)](https://github.com/rubenarcos2/gesmerca-c_sharp)
+- 🌐 Web
+  - [Final proyect Higher Technician in Web Applications Development (DAW)](https://github.com/rubenarcos2/proyecto_daw)
 - 🧠 IA
   - https://rarcos.com/2022/08/11/IA-Juego-Hotel
   - https://github.com/rubenarcos2/streamlit-perceptron-iris
