@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   - [Final proyect Higher Technician in Web Applications Development (DAW)](https://github.com/rubenarcos2/proyecto_daw)
   - [Final proyect Higher Technician in Multi-platform Applications Development (DAM)](https://github.com/rubenarcos2/gesmerca-c_sharp)
 - 🌐 Web
-  - [Final proyect Higher Technician in Web Applications Development (DAW)](https://github.com/rubenarcos2/proyecto_daw)
+  - [GesMerCa (Angular + Laravel + IA](https://github.com/rubenarcos2/proyecto_daw)
 - 🧠 IA
   - https://rarcos.com/2022/08/11/IA-Juego-Hotel
   - https://github.com/rubenarcos2/streamlit-perceptron-iris
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   - Things
     - https://github.com/rubenarcos2/IoT-My_learning_path/tree/main/Things
 - 🖥 C#
-  - [Final proyect Higher Technician in Multi-platform Applications Development (DAM)](https://github.com/rubenarcos2/gesmerca-c_sharp)
+  - [GesMerCa C#](https://github.com/rubenarcos2/gesmerca-c_sharp)
   - https://github.com/rubenarcos2/editor-de-textos-c_sharp
   - https://bitbucket.org/rubenarcos/tetris-c
 - 📡 API
