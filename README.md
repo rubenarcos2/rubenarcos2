@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   - Things
     - https://github.com/rubenarcos2/IoT-My_learning_path/tree/main/Things
 - 🖥 C#
-  - https://github.com/rubenarcos2/gesmerca-c_sharp
+  - [Proyecto integrado C.F.G.S. DAM](https://github.com/rubenarcos2/gesmerca-c_sharp)
   - https://github.com/rubenarcos2/editor-de-textos-c_sharp
   - https://bitbucket.org/rubenarcos/tetris-c
 - 📡 API
