@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   - [Final proyect Higher Technician in Multi-platform Applications Development (DAM)](https://github.com/rubenarcos2/gesmerca-c_sharp)
 - 🌐 Web
   - [Angular + Laravel + JWT + IA](https://github.com/rubenarcos2/proyecto_daw)
-  - [Angular + Spring boot 3 + Spring security 6 + JWT [in progress]](https://github.com/rubenarcos2/spring_security_angular)
+  - [Angular + Spring boot 3 + Spring security 6 + JWT](https://github.com/rubenarcos2/spring_security_angular)
 - 🧠 IA
   - https://rarcos.com/2022/08/11/IA-Juego-Hotel
   - https://github.com/rubenarcos2/streamlit-perceptron-iris
