@@ -55,7 +55,7 @@ Here are some ideas to get you started:
   - https://github.com/rubenarcos2/js-vanilla-api-client
   - https://github.com/rubenarcos2/IoT-My_learning_path/tree/main/Learning/API_Openweathermao
 - 🖥 C#
-  - [Gestión de recepción de mercancías con control de acceso](https://github.com/rubenarcos2/gesmerca-c_sharp)
+  - [Goods receipt management with access control](https://github.com/rubenarcos2/gesmerca-c_sharp)
   - [Text editor](https://github.com/rubenarcos2/editor-de-textos-c_sharp)
   - [Tetris game](https://bitbucket.org/rubenarcos/tetris-c)
 - 🔒 Criptography
