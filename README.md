@@ -1,4 +1,4 @@
-<h2>Job offers, proposals or other initiatives send them to me via <a href="[url](https://www.linkedin.com/in/rubenarcos2/)">LinkedIn</a></h2>
+<h2>Job offers, proposals or other initiatives send them to me via <a href="https://www.linkedin.com/in/rubenarcos2">LinkedIn</a></h2>
 
 ### 📖 My skills
 [![My Skills1](https://skillicons.dev/icons?i=java,cs,php,python,r,js,html,css,angular,typescript)](https://rarcos.com/about/)
