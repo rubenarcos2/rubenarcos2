@@ -1,3 +1,5 @@
+Job offers, proposals or other initiatives send them to me via [LinkedIn](https://www.linkedin.com/in/rubenarcos2/)
+
 ### 📖 My skills
 [![My Skills1](https://skillicons.dev/icons?i=java,cs,php,python,r,js,html,css,angular,typescript)](https://rarcos.com/about/)
 [![My Skills2](https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,tensorflow,androidstudio,arduino,raspberrypi,laravel,spring)](https://rarcos.com/about/)
