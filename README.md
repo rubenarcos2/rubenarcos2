@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on ... new projects and code adventures
 - 🤔 I’m looking for help with ... job offer, an other education course, repo collab
 - 💬 Ask me about ... anything
-- ⚡ Fun fact: Arduino, new electronics components, learn to play electric guitar
+- ⚡ I have fun with: Arduino, new electronics components, learn to play electric guitar
 - 📫 How to reach me: https://rarcos.com/contacto/
   
 <!--
