@@ -5,12 +5,13 @@
 [![My Skills2](https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,tensorflow,androidstudio,arduino,raspberrypi,laravel,spring)](https://rarcos.com/about/)
 
 ### 👋 Hi there
-- 🔭 I’m currently working on ... Web develop, Angular, IA algorithms & Python...
-- 🌱 I’m currently learning ... a web develop course & improve my english
+- 🔭 I’m currently working on ... Web develop, Angular, AI algorithms & Python
+- 🌱 I’m currently learning ... React, SpringBoot AI & improve my english
 - 👯 I’m looking to collaborate on ... new projects and code adventures
-- 🤔 I’m looking for help with ... job offer, an other education course, repo collab... 
+- 🤔 I’m looking for help with ... job offer, an other education course, repo collab
 - 💬 Ask me about ... anything
-- 📫 How to reach me: ... https://rarcos.com/contacto/
+- ⚡ Fun fact: Arduino, new electronics components, learn to play electric guitar
+- 📫 How to reach me: https://rarcos.com/contacto/
   
 <!--
 **rubenarcos2/rubenarcos2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
