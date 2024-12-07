@@ -1,8 +1,8 @@
 <h2>Job offers, proposals or other initiatives send them to me via <a href="https://www.linkedin.com/in/rubenarcos2">LinkedIn</a></h2>
 
 ### 📖 My skills
-[![My Skills1](https://skillicons.dev/icons?i=java,cs,php,python,r,js,html,css,angular,typescript,struts)](https://rarcos.com/about/)
-[![My Skills2](https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,tensorflow,androidstudio,arduino,raspberrypi,laravel,spring, springboot)](https://rarcos.com/about/)
+[![My Skills1](https://skillicons.dev/icons?i=java,cs,php,python,r,js,html,css,angular,typescript)](https://rarcos.com/about/)
+[![My Skills2](https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,tensorflow,androidstudio,arduino,raspberrypi,laravel,spring)](https://rarcos.com/about/)
 
 ### 👋 Hi there
 - 🔭 I’m currently working on ... Java Backend, Web develop (Angular), AI algorithms & Python
