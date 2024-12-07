@@ -5,7 +5,7 @@
 [![My Skills2](https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,tensorflow,androidstudio,arduino,raspberrypi,laravel,spring)](https://rarcos.com/about/)
 
 ### 👋 Hi there
-- 🔭 I’m currently working on ... Web develop, Angular, AI algorithms & Python
+- 🔭 I’m currently working on ... Java Backend, Web develop (Angular), AI algorithms & Python
 - 🌱 I’m currently learning ... React, SpringBoot AI & improve my english
 - 👯 I’m looking to collaborate on ... new projects and code adventures
 - 🤔 I’m looking for help with ... job offer, an other education course, repo collab
