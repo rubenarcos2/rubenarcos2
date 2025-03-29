@@ -36,6 +36,7 @@ Here are some ideas to get you started:
   - [Angular 16 + Laravel 10 + JWT + IA](https://github.com/rubenarcos2/proyecto_daw)
   - [Angular 17 + Spring boot 3 + Spring security 6 + JWT](https://github.com/rubenarcos2/spring_security_angular)
 - 🧠 IA
+  - https://rarcos.com/2025/02/12/GMCCA_microservices
   - https://rarcos.com/2022/08/11/IA-Juego-Hotel
   - https://github.com/rubenarcos2/streamlit-perceptron-iris
   - https://rarcos.com/2022/01/29/IA_perceptron_clasificador_iris  
